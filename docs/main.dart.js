@@ -83097,7 +83097,7 @@ aiu(a,b){var s,r=this
 if(r.e)return
 r.b=a
 r.c=b
-s=A.aJ5(A.avl(A.bB("wss://https://1c40f61b1257.ngrok-free.app/ws/"+a+"/"+b,0,null),null))
+s=A.aJ5(A.avl(A.bB("wss://1c40f61b1257.ngrok-free.app/ws/"+a+"/"+b,0,null),null))
 r.a=s
 s=s.r.b
 s===$&&A.a()
